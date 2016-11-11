@@ -476,6 +476,14 @@
                  "height":16,
                  "id":35,
                  "name":"Cerleen",
+                 "properties":
+                    {
+                     "flavorText":"If you enjoy doing nothing this game is a hell lot of fun"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -502,6 +510,78 @@
                  "width":16,
                  "x":64,
                  "y":400
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":37,
+                 "name":"Clair",
+                 "properties":
+                    {
+                     "flavorText":"I want to get off Mr. Seiyria's wild ride"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":432
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":42,
+                 "name":"Anonymous Donator",
+                 "properties":
+                    {
+                     "flavorText":"Thank you for your contribution!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":464
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":43,
+                 "name":"XazR",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":496
+                }, 
+                {
+                 "gid":69,
+                 "height":16,
+                 "id":46,
+                 "name":"Kold",
+                 "properties":
+                    {
+                     "flavorText":"The best time to wear a striped sweater is all the time."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":528
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -577,7 +657,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":37,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "properties":
     {
